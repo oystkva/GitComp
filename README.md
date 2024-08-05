@@ -1,1 +1,1 @@
-# GitComp
+This is the Git Completion Exercise
